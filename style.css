@@ -1,0 +1,25 @@
+.row1{
+    margin-top: 30px;
+    background: linear-gradient(to right, #186f6f , rgb(63, 92, 6));
+}
+.row2{
+    height: 60px;
+    display: flex;
+    background-color: rgb(33, 126, 131);
+}
+.col2{
+    flex: 1;
+
+}
+.btns{
+    width: 80px;
+    height: 50px;
+    border-radius: 30px;
+}
+#inputs{
+    width: 90%;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
